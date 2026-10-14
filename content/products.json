@@ -1,0 +1,8 @@
+{
+  "items":[
+    {"id":"foger-switch-pro","name":"Foger Switch Pro Blue Rancher B-Pop Kit 30000","description":"Nicotine vape · available in select stores","price":"35","category":"Nic Vapes","visibility":"visible"},
+    {"id":"geekbar-pulse","name":"Geekbar Pulse Banana Ice 15000","description":"Nicotine vape · available in select stores","price":"25","category":"Nic Vapes","visibility":"visible"},
+    {"id":"raz-alaskan-mint","name":"Geekvape RAZ Alaskan Mint 6000","description":"Nicotine vape · available in select stores","price":"20","category":"Nic Vapes","visibility":"visible"},
+    {"id":"puffco-cupsy","name":"Puffco Cupsy","description":"Vaporizer · availability varies by location","price":"90","category":"Vaporizers","visibility":"visible"}
+  ]
+}

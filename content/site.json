@@ -1,0 +1,12 @@
+{
+  "business": {
+    "name": "Galaxy Smoke Shop",
+    "phone": "+1 630-855-4075",
+    "email": "Galaxysmoke2000@gmail.com",
+    "address": "2000 Irving Park Rd, Hanover Park, IL 60133",
+    "hours": "Daily, 9:00 AM–11:00 PM",
+    "lateHours": "Friday–Saturday until midnight",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Galaxy+Smoke+Shop+2000+Irving+Park+Rd+Hanover+Park+IL+60133"
+  },
+  "footer": {"contact":{"label":"Call the shop","url":"tel:+16308554075","variant":"link"}}
+}
