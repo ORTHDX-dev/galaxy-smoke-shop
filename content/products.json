@@ -1,8 +1,12 @@
 {
   "items":[
-    {"id":"foger-switch-pro","name":"Foger Switch Pro Blue Rancher B-Pop Kit 30000","description":"Nicotine vape · available in select stores","price":"35","category":"Nic Vapes","visibility":"visible"},
-    {"id":"geekbar-pulse","name":"Geekbar Pulse Banana Ice 15000","description":"Nicotine vape · available in select stores","price":"25","category":"Nic Vapes","visibility":"visible"},
-    {"id":"raz-alaskan-mint","name":"Geekvape RAZ Alaskan Mint 6000","description":"Nicotine vape · available in select stores","price":"20","category":"Nic Vapes","visibility":"visible"},
-    {"id":"puffco-cupsy","name":"Puffco Cupsy","description":"Vaporizer · availability varies by location","price":"90","category":"Vaporizers","visibility":"visible"}
+    {"id":"foger-switch-pro","name":"Foger Switch Pro Blue Rancher B-Pop Kit 30000","description":"Nicotine vape · available in select stores","price":"35","category":"Nic Vapes","image":"http://galaxysmokeshopil.com/assets/product-images/official-foger/foger-switch-pro-blue-rancher-b-pop-kit-30000-ed511c6d259e.jpg","visibility":"visible"},
+    {"id":"geekbar-pulse","name":"Geekbar Pulse Banana Ice 15000","description":"Nicotine vape · available in select stores","price":"25","category":"Nic Vapes","image":"http://galaxysmokeshopil.com/assets/product-images/geekbar-pulse-15000/geekbar-pulse-15000-banana-ice.webp","visibility":"visible"},
+    {"id":"raz-alaskan-mint","name":"Geekvape RAZ Alaskan Mint 6000","description":"Nicotine vape · available in select stores","price":"20","category":"Nic Vapes","image":"http://galaxysmokeshopil.com/assets/product-images/official-raz/geekvape-raz-alaskan-mint-6000-3c970ea28aa5.jpg","visibility":"visible"},
+    {"id":"foger-switch-pod","name":"Foger Switch Pro Blue Rancher B-Pop Pod 30K","description":"Nicotine vape · available in select stores","price":"30","category":"Nic Vapes","image":"http://galaxysmokeshopil.com/assets/product-images/official-foger/foger-switch-pro-blue-rancher-b-pop-pod-30k-9482f490fe5b.jpg","visibility":"visible"},
+    {"id":"geekbar-black-cherry","name":"Geekbar Pulse Black Cherry 15000","description":"Nicotine vape · available in select stores","price":"25","category":"Nic Vapes","image":"http://galaxysmokeshopil.com/assets/product-images/cutwm_cutout_geekbar-pulse-black-cherry.png","visibility":"visible"},
+    {"id":"raz-banana-coconut","name":"Geekvape RAZ Banana Coconut 9000","description":"Nicotine vape · available in select stores","price":"30","category":"Nic Vapes","image":"http://galaxysmokeshopil.com/assets/product-images/official-raz/geekvape-raz-banana-coconut-9000-8432bf6d853.png","visibility":"visible"},
+    {"id":"puffco-cupsy","name":"Puffco Cupsy","description":"Vaporizer · availability varies by location","price":"90","category":"Vaporizers","image":"http://galaxysmokeshopil.com/assets/product-images/official-puffco/cupsy-8be65edf0899.png","visibility":"visible"},
+    {"id":"puffco-hot-knife","name":"Puffco Hot Knife Blue","description":"Vaporizer accessory · availability varies by location","price":"65","category":"Vaporizer accessories","image":"http://galaxysmokeshopil.com/assets/product-images/official-puffco/hot-knife-blue-fd265e5ae5b9.png","visibility":"visible"}
   ]
 }
