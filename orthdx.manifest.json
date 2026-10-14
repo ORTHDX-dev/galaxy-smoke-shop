@@ -2,7 +2,7 @@
   "version":2,
   "siteId":"galaxy-smoke-shop",
   "modules":{
-    "inventory":{"type":"inventory","label":"Shelf examples","file":"content/products.json","collection":"items","itemLabel":"name","fields":["name","description","price","category","visibility"],"required":["name"],"allowAdd":true,"allowRemove":true,"import":true},
+    "inventory":{"type":"inventory","label":"Shelf examples","file":"content/products.json","collection":"items","itemLabel":"name","fields":["name","description","price","category","image","visibility"],"required":["name"],"allowAdd":true,"allowRemove":true,"import":true},
     "content":{"type":"content","label":"Site content","groups":[
       {"label":"Site style","instances":[{"id":"theme","label":"Colors and corners","file":"content/theme.json","path":"","editable":[{"key":"brand","label":"Brand color","type":"color"},{"key":"brandText","label":"Text on brand color","type":"color"},{"key":"radius","label":"Corner roundness","type":"range","min":0,"max":24,"step":1,"unit":"px"}]}]},
       {"label":"Buttons","instances":[{"id":"hero-button","label":"Homepage / Hero button","file":"content/home.json","path":"hero.primary","editable":["label","url",{"key":"variant","label":"Style","type":"choice","options":["primary","secondary","link"]}]},{"id":"cta-button","label":"Homepage / Bottom button","file":"content/home.json","path":"cta.button","editable":["label","url",{"key":"variant","label":"Style","type":"choice","options":["primary","secondary","link"]}]},{"id":"footer-button","label":"Footer / Contact button","file":"content/site.json","path":"footer.contact","editable":["label","url",{"key":"variant","label":"Style","type":"choice","options":["primary","secondary","link"]}]}]},
