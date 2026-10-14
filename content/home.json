@@ -1,0 +1,14 @@
+{
+  "hero": {
+    "heading": "Galaxy Smoke Shop",
+    "subheading": "Vapes, glass, smoking accessories, and more at 2000 Irving Park Rd in Hanover Park.",
+    "primary":{"label":"Get directions","url":"https://www.google.com/maps/search/?api=1&query=Galaxy+Smoke+Shop+2000+Irving+Park+Rd+Hanover+Park+IL+60133","variant":"primary"}
+  },
+  "categories":[
+    {"id":"vapes","name":"Vapes","description":"Disposable devices and pod systems."},
+    {"id":"glass","name":"Glass","description":"Water pipes, hand pipes, and pieces."},
+    {"id":"accessories","name":"Smoking accessories","description":"Papers, wraps, tools, and everyday essentials."},
+    {"id":"hookah","name":"Hookah and shisha","description":"Hookah pieces and supplies."}
+  ],
+  "cta":{"heading":"Visit the Hanover Park shop","button":{"label":"Call +1 630-855-4075","url":"tel:+16308554075","variant":"secondary"}}
+}
